@@ -1,3 +1,3 @@
 # Python-Course73
 
-#We're going to do python exercises
+In this repository we have python exercises
